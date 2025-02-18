@@ -1,0 +1,14 @@
+.vs/
+bin/
+obj/
+*.pdb
+*.dll
+ShopServer.Business/bin
+ShopServer.Business/obj
+ShopServer.DataAccess/bin
+ShopServer.DataAccess/obj
+ShopServer/bin
+ShopServer/obj
+# Ignore build artifacts
+/obj/
+/bin/
